@@ -1,12 +1,12 @@
 # # 👋 Hello! Welcome to my Github profile.
 ## My name is Gabriela and my nickname is "Gabis"!
 
-- 🔭 Graduanda em Engenharia da Computação
-- 🌱 Atualmente estou me aprofundando em Python
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Amo games e meu hobbie é desenhar.
+- 🔭 Undergraduate student in Computer Engineering
+- 🌱 Currently delving deeper into Python
+- 😄 Pronouns: She/Her
+- ⚡ Interest: I love games, and my hobby is drawing
 
-- ## Contatos:
+- ## Contacts:
 
 <div>
 
