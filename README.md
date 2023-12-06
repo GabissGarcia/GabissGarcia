@@ -1,5 +1,5 @@
-# # 👋 Hello! Welcome to my Github profile.
-## My name is Gabriela and my nickname is "Gabis"!
+ # 👋 Hello! Welcome to my Github profile.
+# My name is Gabriela and my nickname is "Gabis"!
 
 - 🔭 Undergraduate student in Computer Engineering
 - 🌱 Currently delving deeper into Python
