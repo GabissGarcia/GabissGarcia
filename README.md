@@ -1,15 +1,21 @@
-# 👋 Hello! Welcome to my GitHub profile.
+# 👋 Hey hey! Welcome to my little corner of GitHub!
 
-My name is Gabriela, but you can call me **Gabis**!
-
-- 🎓 Graduated in **Computer Engineering**  
-- 🐍 Currently diving deeper into **Python**  
-- 😄 Pronouns: **She/Her**  
-- 🎮 Interests: I love **games**, and my hobby is **drawing**  
+I'm **Gabriela**, but you can call me **Gabis** 💁‍♀️✨  
+A creative soul with a love for **tech, games** and a splash of **art**!
 
 ---
 
-## 📱 Contacts
+## 🧠 About me
+
+- 🎓 Graduated in **Computer Engineering** (yes, I love numbers and cables)  
+- 🐍 Currently geeking out over **Python** — it's my coding crush  
+- 🎮 I’m a game lover (challenging bosses and rage quits included)  
+- 🎨 Drawing is my therapy 🎧  
+- 😄 Pronouns: **She/Her**
+
+---
+
+## 📲 Let's connect!
 
 <div>
   <a href="https://www.instagram.com/gabiisgarcia" target="_blank">
@@ -22,13 +28,21 @@ My name is Gabriela, but you can call me **Gabis**!
 
 ---
 
-## 💻 Tech Stack
+## 💻 My Toolbox
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 💬 Fun fact
+
+If I’m not coding, I’m probably sketching something weird or yelling at a video game boss I can’t beat 😅🎮
 
 ---
 
